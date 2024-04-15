@@ -1,0 +1,54 @@
+ 
+body{
+    background-color:beige;
+}
+#fb-logo{
+    color: blue;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.flex-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    margin: 0 auto;
+    border: 1px ;
+    border-style: solid;
+    height: 550px;
+    width:550px;
+    border-radius: 10px;
+    background-color: white;
+
+}
+ 
+
+ input{
+    height: 60px;
+    width: 90%;
+    border-radius: 5px;
+    border-color: gray;
+    outline-color: gray;
+    
+ }
+
+ button{
+    border: 1px solid;
+    border-style: solid;
+    height:45px ;
+    width: 90%;
+    font-weight: bold;
+    color: white;
+    background-color: blue;
+ }
+
+ #lastBtn{
+    border: 1px ;
+    border-style: solid;
+    height: 50px;
+    width: 45%;
+    background-color:rgb(95, 236, 13);
+    border-radius: 5px;
+    
+ }
